@@ -1,0 +1,12 @@
+Provide the following variables in order: 
+
+size of population (integer) 
+size of portfolios (integer) 
+distribution of portfolios in the population (string, specific value)
+number of generations (integer) 
+mutation method (string, specific value) 
+rate of mutations (double, 0-1)
+selection method (string, specific value) 
+percent selected for reproduction (double, 0-1)
+number of times the portfolio is evaluated (integer) 
+
